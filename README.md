@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hossein Madadi
 - 👀 I’m interested in data engineering and back-end developing
 - 🌱 I’m currently learning Scala and Spark
-- 📫 How to reach me : LinkedIn = https://www.linkedin.com/in/hossein-madadi-911394106
+- 📫 How to reach me : LinkedIn = https://www.linkedin.com/in/hossein-madadi
 
 <!---
 hossein-niml/hossein-niml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
