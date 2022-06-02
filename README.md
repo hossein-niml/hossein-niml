@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hossein Madadi
 - 👀 I’m interested in data engineering and back-end developing
-- 🌱 I’m currently learning Scala and Spark
 - 📫 How to reach me : LinkedIn = https://www.linkedin.com/in/hossein-madadi
 
 <!---
